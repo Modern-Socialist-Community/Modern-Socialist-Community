@@ -1,17 +1,17 @@
 @font-face {
    	font-family: lbsh;
-   	src: url(charissil-r.ttf);
+   	src: url(font/charissil-r.ttf);
 }
 
 @font-face {
    	font-family: lbsh;
-   	src: url(charissil-b.ttf);
+   	src: url(font/charissil-b.ttf);
    	font-weight: bold;
 }
 
 @font-face {
   	 font-family: lbsh;
-   	src: url(charissil-i.ttf);
+   	src: url(font/charissil-i.ttf);
    	font-style: italic;
 }
 
