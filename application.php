@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="regular.css">
+	<link rel="stylesheet" type="text/css" href="css/regular.css">
 	<script src="jquery-3.2.1.min.js"></script>
 
 	<script>
